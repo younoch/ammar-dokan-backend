@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "Teletalk9",
+        "JWT_KEY": "secret",
+        "HOST_ADDRESS" : "https://amar-dokhan.herokuapp.com"
+    }
+}
